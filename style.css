@@ -1,0 +1,44 @@
+.section1{
+    background-color: #fbf7ed;
+}
+img[src="./Images/pic1.webp" ]{
+    width: 630px;
+    height: 600px;
+}
+.section3{
+    background-color:#004c3f;
+}
+img[src="./Images/table.PNG"]{
+    width: 500px;
+    height: 400px;
+}
+img[src="./Images/pic12.png"]{
+    width: 500px;
+    height: 400px;
+}
+.section5{
+    background-color: #f3fcf4;
+}
+img[src="./images/pic13.webp"]{
+    width: 700px;
+    height: 320px;  
+}
+img[src="./Images/lady.jpg"]{
+    width: 552px;
+    height: 580px;
+}
+.right-lady{
+    background-color: #002e25;
+}
+
+img[src="./Images/man.webp"]{
+    width: 630px;
+    height: 678px;
+}
+.section7{
+    background-color: #fbf7ed;
+}
+.footer{
+    background-color: #002e25;
+    
+}
