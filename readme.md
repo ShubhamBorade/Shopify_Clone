@@ -1,8 +1,8 @@
 # Shopify Clone
 
-> i have learnt basics of HTML and CSS in this project.
+> I have learnt about Tailwind in this project.
 
-> it took me around 9 and half hours to complete this project.
+> It took me around 9 and half hours to complete this project.
 
 ### Tools Used:
 
